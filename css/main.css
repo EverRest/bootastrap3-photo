@@ -1,0 +1,277 @@
+*::-webkit-input-placeholder {
+	color: #666;
+	opacity: 1;
+}
+*:-moz-placeholder {
+	color: #666;
+	opacity: 1;
+}
+*::-moz-placeholder {
+	color: #666;
+	opacity: 1;
+}
+*:-ms-input-placeholder {
+	color: #666;
+	opacity: 1;
+}
+
+body input:focus:required:invalid,
+body textarea:focus:required:invalid {
+	
+}
+body input:required:valid,
+body textarea:required:valid {
+	
+}
+body {
+	font-family: "RobotoRegular", sans-serif;
+	font-size: 16px;
+}
+
+/*****
+***	HEADER
+*****/
+header {
+	height: 643px;
+	overflow: hidden;
+	background: url('../img/header_bg.jpg') no-repeat center center;
+	background-size: cover;
+}
+
+a.logo {
+	line-height: 186px;
+}
+
+.top-menu {
+	height: 186px;
+	font-family: "AllerRegular";
+}
+
+.top-menu ul {
+	list-style-type: none;
+	line-height: 186px;
+	height: 186px;
+	padding: 0;
+	margin: 0;
+}
+
+.top-menu ul li {
+	display: inline-block;
+	margin: 0 12px;
+}
+
+.top-menu ul li a {
+	color: #fff;
+	font-size: 18px;
+}
+
+.top-menu ul li a:hover {
+	text-decoration: underline;
+}
+
+.bottom-header {
+	color: #fff;
+}
+
+.bottom-header h1  {
+	font-size: 50px;
+	font-family: "AllerBold";
+	margin: 0;
+	padding-bottom: 20px;
+}
+
+.bottom-header h2 {
+	font-family: "AllerLight"; 
+	font-size: 40px;
+	margin: 0;
+	padding-bottom: 15px;
+}
+
+.bottom-header h4 {
+	font-size: 22px;
+	font-family: "OpenSansLight";
+	font-weight: 300;
+	max-width: 400px;
+	margin: 0;
+}
+
+.app-btn {
+	max-width: 410px;
+	background-color: #71a329;
+	min-height: 67px;
+	line-height: 67px;
+	margin: 40px 0 10px 0;
+}
+
+.app-btn:hover {
+	cursor: pointer;
+}
+
+.app-btn p {
+	font-size: 20px;
+}
+
+.bottom-header a {
+	margin-right: 15px;
+	width: 195px;
+	height: 70px;
+	display: inline-block;
+	background: url('../img/app_store.jpg') no-repeat center center;
+}
+
+.bottom-header a:last-child {
+	margin: 0;
+	background: url('../img/google_play.jpg') no-repeat center center;
+}
+
+.bottom-header .phone-wrapper {
+	height: 457px;
+	width: 100%;
+	background: url('../img/phone_bg.png') no-repeat right 0;
+}
+
+/*****
+***	SECTION
+*****/
+
+.about {
+	height: 530px;
+	padding-top: 90px;
+	padding-bottom: 45px;
+	color: #4e5b61;
+	overflow: hidden;
+}
+
+.about .ano-phone {
+	background: url('../img/ano_phone_bg.png') no-repeat left 0;
+	height: 370px;
+}
+
+.about section {
+	padding-top: 70px;
+}
+
+.about section h2 {
+	font-family: "AllerBold";
+	font-size: 36px;
+	margin: 0
+}
+
+.about section p {
+	padding-top: 34px;
+	margin: 0;
+	font-size: 19px;
+	font-family: "OpenSansRegular";
+	max-width: 554px;
+}
+
+.about .container {
+	border-bottom: 1px solid #cacdcf;
+}
+
+/*****
+***	MACRO
+*****/
+
+.macro {
+	width: 100%;
+	height: 500px;
+	background: url('../img/macro_bg.png') no-repeat center center;
+	background-size: cover;
+	color: #fff;
+}
+
+.macro h2,.macro h4 {
+	margin: 0;
+}
+
+.macro h2 {
+	padding-top: 62px;
+	padding-bottom: 35px;
+	font-family: "AllerBold";
+	font-size: 52px;
+}
+
+.macro h4 {
+	font-family: "AllerLight";
+	font-size: 37px;
+	max-width: 620px;
+}
+
+/*****
+***	CONTACT
+*****/
+
+.contact {
+	color: #4e5b61;
+	padding: 65px 0;
+}
+
+.contact p {
+	color: #8a9295;
+}
+
+.contact .article-wrapper {
+	clear: both;
+	width: 100%;
+	height: 100%;
+	padding: 15px 0;
+}
+
+.contact .article-wrapper img {
+	display: inline-block;
+}
+
+.contact .article-wrapper .article {
+	display: inline-block;
+	width: 70%;
+	margin-left: 3%;
+	padding-right: 20%;
+}
+
+.article-wrapper .article h5 {
+	font-size: 21px;
+	font-family: "OpenSansBold";
+} 
+
+.article-wrapper .article p {
+	font-family: "OpenSansRegular";
+	font-size: 16px;
+}
+
+.contact h2 {
+	font-family: "AllerBold";
+	font-size: 36px;
+	margin: 0;
+}
+
+.contact-article p {
+	padding-top: 25px;
+	font-size: 19px;
+	font-family: "OpenSansRegular";
+	margin-right: 15%;
+}
+
+.contact-article p:last-child {
+	padding-top: 35px;
+}
+/*****
+*** FOOTER
+*****/
+
+footer {
+	border-top: 1px solid #cacdcf;
+	color: #cacdcf;
+}
+
+footer nav ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+
+footer nav ul li {
+	display: inline-block;
+}
+

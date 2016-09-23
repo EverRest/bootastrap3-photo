@@ -1,0 +1,110 @@
+/* font-family: "RobotoRegular"; */
+@font-face {
+	font-family: "RobotoRegular";
+	src: url("../fonts/RobotoRegular/RobotoRegular.eot");
+	src: url("../fonts/RobotoRegular/RobotoRegular.eot?#iefix")format("embedded-opentype"),
+	url("../fonts/RobotoRegular/RobotoRegular.woff") format("woff"),
+	url("../fonts/RobotoRegular/RobotoRegular.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+/* font-family: "RobotoLight"; */
+@font-face {
+	font-family: "RobotoLight";
+	src: url("../fonts/RobotoLight/RobotoLight.eot");
+	src: url("../fonts/RobotoLight/RobotoLight.eot?#iefix")format("embedded-opentype"),
+	url("../fonts/RobotoLight/RobotoLight.woff") format("woff"),
+	url("../fonts/RobotoLight/RobotoLight.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+/* font-family: "RobotoMedium"; */
+@font-face {
+	font-family: "RobotoMedium";
+	src: url("../fonts/RobotoMedium/RobotoMedium.eot");
+	src: url("../fonts/RobotoMedium/RobotoMedium.eot?#iefix")format("embedded-opentype"),
+	url("../fonts/RobotoMedium/RobotoMedium.woff") format("woff"),
+	url("../fonts/RobotoMedium/RobotoMedium.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+/* font-family: "RobotoBold"; */
+@font-face {
+	font-family: "RobotoBold";
+	src: url("../fonts/RobotoBold/RobotoBold.eot");
+	src: url("../fonts/RobotoBold/RobotoBold.eot?#iefix")format("embedded-opentype"),
+	url("../fonts/RobotoBold/RobotoBold.woff") format("woff"),
+	url("../fonts/RobotoBold/RobotoBold.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+/* font-family: "AllerRegular"; */
+@font-face {
+	font-family: "AllerRegular";
+	src: url("../fonts/AllerRegular/aller_rg-webfont.eot");
+	src: url("../fonts/AllerRegular/aller_rg-webfont.eot?#iefix")format("embedded-opentype"),
+	url("../fonts/AllerRegular/aller_rg-webfont.woff") format("woff"),
+	url("../fonts/AllerRegular/aller_rg-webfont.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+/* font-family: "AllerBold"; */
+@font-face {
+	font-family: "AllerBold";
+	src: url("../fonts/AllerBold/aller_bd-webfont.eot");
+	src: url("../fonts/AllerBold/aller_bd-webfont.eot?#iefix")format("embedded-opentype"),
+	url("../fonts/AllerBold/aller_bd-webfont.woff") format("woff"),
+	url("../fonts/AllerBold/aller_bd-webfont.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+/* font-family: "AllerLight"; */
+@font-face {
+	font-family: "AllerLight";
+	src: url("../fonts/AllerLight/aller_lt-webfont.eot");
+	src: url("../fonts/AllerLight/aller_lt-webfont.eot?#iefix")format("embedded-opentype"),
+	url("../fonts/AllerLight/aller_lt-webfont.woff") format("woff"),
+	url("../fonts/AllerLight/aller_lt-webfont.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+/* font-family: "OpenSansLight"; */
+@font-face {
+    font-family: "OpenSansLight";
+    src: url("../fonts/OpenSans/OpenSansLight/OpenSansLight.eot");
+    src: url("../fonts/OpenSans/OpenSansLight/OpenSansLight.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/OpenSans/OpenSansLight/OpenSansLight.woff") format("woff"),
+    url("../fonts/OpenSans/OpenSansLight/OpenSansLight.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+/* font-family: "OpenSansBold"; */
+@font-face {
+    font-family: "OpenSansBold";
+    src: url("../fonts/OpenSans/OpenSansBold/OpenSansBold.eot");
+    src: url("../fonts/OpenSans/OpenSansBold/OpenSansBold.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/OpenSans/OpenSansBold/OpenSansBold.woff") format("woff"),
+    url("../fonts/OpenSans/OpenSansBold/OpenSansBold.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+/* font-family: "OpenSansRegular"; */
+@font-face {
+    font-family: "OpenSansRegular";
+    src: url("../fonts/OpenSans/OpenSansRegular/OpenSansRegular.eot");
+    src: url("../fonts/OpenSans/OpenSansRegular/OpenSansRegular.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/OpenSans/OpenSansRegular/OpenSansRegular.woff") format("woff"),
+    url("../fonts/OpenSans/OpenSansRegular/OpenSansRegular.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+/* font-family: "OpenSansRegular"; */
+@font-face {
+    font-family: "OpenSansRegular";
+    src: url("../fonts/OpenSans/OpenSansRegular/OpenSansRegular.eot");
+    src: url("../fonts/OpenSans/OpenSansRegular/OpenSansRegular.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/OpenSans/OpenSansRegular/OpenSansRegular.woff") format("woff"),
+    url("../fonts/OpenSans/OpenSansRegular/OpenSansRegular.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
